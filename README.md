@@ -4,7 +4,7 @@
 
 ```bash
 # clone this repository
-https://github.com/MetasPattaraamornpan/URLShortener.git
+https://github.com/MetasPattaraamornpan/TinyURL.git
 ```
 
 ## Run locally
